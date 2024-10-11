@@ -120,7 +120,7 @@ Each day's work will be documented in its respective folder, complete with code 
 1. Clone the repository:
    ```bash
    git clone https://github.com/fzihak/Py100DaysChallenge.git
-##Contributions
+## Contributions
 While this is a personal learning journey, I welcome feedback and suggestions! If you have any tips or resources to share, feel free to open an issue or send a message.
 
 Thanks for joining me on this learning adventure! Let’s dive into Python together! 🚀
